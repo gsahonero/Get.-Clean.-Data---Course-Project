@@ -1,6 +1,7 @@
 # Getting and Cleaning Data - Course Project
 ## About the Script
 The `run_analysis.R` performs the following procedures:
+
 1. Verifies existence of the Data folder. If such folder does not exist, R will download it. The URL of the data is the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 2. The data files (X,Y files of the train and test data sets) are loaded as CSV files. 
